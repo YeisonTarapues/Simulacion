@@ -1,0 +1,108 @@
+h5{
+	font-family: 'Bangers', cursive;
+}
+
+h1{
+	font-family: 'Bangers', cursive;
+}
+h3{
+	font-family: 'Bangers', cursive;
+}
+
+h2{
+	font-family: 'Bangers', cursive;
+}
+
+h4{
+		font-family: 'Bangers', cursive;
+}
+
+body{
+	background:url('../imagenes/textura4.jpg') top left repeat;
+}
+
+.Letras_barra{
+	font-family: 'Metamorphous', cursive;
+	color: white;
+}
+#carouselExampleIndicators{
+	padding-top: 80px;
+	padding-right: 10px;
+	width: 765px;
+	color: black;
+}
+
+#what-learn{
+	padding-top: 50px;
+	text-align: center;
+	background-color: #76CFF1;
+}
+
+#title-enroll .jumbotron{
+	background:url('../imagenes/sismo3.jpg')50% 70% no-repeat;
+	color: white;
+	height: 450px;
+	padding-top: 100px;
+}
+
+#title-enroll{
+	padding-top: 1px;
+	height: 405px;
+	padding-right: 10px;
+	padding-left: 5px;
+}
+
+#info{
+	background:url('../imagenes/fondo3.png') repeat fixed;
+	color: white;
+	text-align: center;
+	padding-top: 100px;
+	height: 700px;
+}
+.logo{
+	color: white;
+}
+
+#title .jumbotron{
+	background:url('../imagenes/textura.jpg') no-repeat;
+	height: 330px;
+	padding-top: 120px;
+	color: white;
+	margin-left:10px;
+}
+
+#title{
+	padding-top: 155px;
+}
+
+#enroll{
+	padding-top: 1px;
+	text-align: center;
+	padding-right: 10px;
+	padding-left: 5px;
+}
+
+
+#enroll .jumbotron{
+	background:url('../imagenes/fondo 6.jpg') repeat fixed;
+	color: white;
+}
+
+.icono{
+	font-size: 30px;
+	color: white;
+}
+
+.semillero{
+	font-size: 1000px;
+}
+
+#sec{
+	padding-top: 80px;
+}
+
+#sec .jumbotron{
+	background:url('../imagenes/fondo13.png') repeat fixed;
+	height: 300px;
+	color: white;
+}

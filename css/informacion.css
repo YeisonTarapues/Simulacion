@@ -1,0 +1,75 @@
+h5{
+  font-family: 'Bangers', cursive;
+}
+
+h1{
+	font-family: 'Bangers', cursive;
+}
+h3{
+	font-family: 'Bangers', cursive;
+}
+
+h2{
+	font-family: 'Bangers', cursive;
+}
+
+h4{
+  	font-family: 'Bitter', serif;
+}
+
+body{
+	background:url('../imagenes/textura4.jpg') top left repeat;
+}
+
+.Letras_barra{
+	font-family: 'Metamorphous', cursive;
+	color: white;
+}
+
+.logo{
+	color: white;
+}
+
+.terremoto1{
+  width: 390px;
+}
+
+.terremoto2{
+  width: 350px;
+}
+
+.terremoto3{
+  width: 430px;
+}
+
+.terremoto4{
+  width: 320px;
+}
+
+#jumbotron1 .jumbotron{
+  text-align: justify;
+  background-color: #819FF7;
+  padding-top: 50px;
+  height: 350px;
+}
+
+#jumbotron2 .jumbotron{
+  text-align: justify;
+  background-color: #81F79F;
+  padding-top: 50px;
+  height: 330px;
+}
+
+#jumbotron3 .jumbotron{
+  text-align: justify;
+  background-color: #F7BE81;
+  padding-top: 50px;
+  height: 345px;
+}
+
+#jumbotron4 .jumbotron{
+  text-align: justify;
+  background-color: #F5A9A9;
+  padding-top: 50px;
+  height: 395px;
+}

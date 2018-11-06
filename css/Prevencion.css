@@ -1,0 +1,53 @@
+h5{
+  font-family: 'Bangers', cursive;
+}
+
+h1{
+	font-family: 'Bangers', cursive;
+}
+h3{
+	font-family: 'Bangers', cursive;
+}
+
+h2{
+	font-family: 'Bangers', cursive;
+}
+
+h4{
+  	font-family: 'Bitter', serif;
+}
+
+h6{
+  font-family: 'Patua One', cursive;
+}
+
+body{
+	background:url('../imagenes/textura4.jpg') top left repeat;
+}
+
+.Letras_barra{
+	font-family: 'Metamorphous', cursive;
+	color: white;
+}
+
+.logo{
+	color: white;
+}
+
+#jumbotron1 .jumbotron{
+  background:url('../imagenes/textura.jpg') top left repeat;
+  color: white;
+  height: 670px;
+  text-align: justify;
+}
+
+#jumbotron2 .jumbotron{
+  background:url('../imagenes/textura.jpg') top left repeat;
+  color: white;
+  height: 540px;
+  text-align: justify;
+}
+
+#texto2{
+  text-align: right;
+}

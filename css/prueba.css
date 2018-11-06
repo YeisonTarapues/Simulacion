@@ -1,0 +1,42 @@
+h5{
+  font-family: 'Bangers', cursive;
+  text-align: center;
+}
+
+h1{
+	font-family: 'Bangers', cursive;
+}
+h3{
+	font-family: 'Bangers', cursive;
+}
+
+h2{
+	font-family: 'Bangers', cursive;
+}
+
+h4{
+		font-family: 'Bangers', cursive;
+}
+
+h6{
+  font-family: 'Poppins', sans-serif;
+  text-align: justify;
+  text-align: center;
+}
+.Letras_barra{
+	font-family: 'Metamorphous', cursive;
+	color: white;
+}
+
+.logo{
+	color: white;
+}
+
+body{
+	background:url('../imagenes/textura6.png') top left repeat;
+  color: white;
+}
+
+#linea{
+background-color: white;
+}

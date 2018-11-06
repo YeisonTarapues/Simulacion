@@ -1,0 +1,60 @@
+h5{
+	font-family: 'Bangers', cursive;
+}
+
+
+h1{
+	font-family: 'Bree Serif', serif;
+  color: white;
+}
+
+h4{
+	font-family: 'Bree Serif', serif;
+	color: white;
+}
+
+h3{
+	font-family: 'Bangers', cursive;
+	color: white;
+}
+
+
+body{
+	background:url('../imagenes/fondo.jpg') top left repeat fixed;
+}
+
+
+#container {
+  width: 1080px;
+  height: 420px;
+  margin: 0 auto;
+  border: 10px solid white;
+}
+.padre {
+  width: 1065px;
+  height: 205px;
+  display: flex;
+}
+.tipo {
+ flex-grow: 1;
+
+}
+#fuego {
+  background-color: green;
+  border: 5px solid white;
+}
+#agua {
+  background-color: Red;
+  border: 5px solid white;
+}
+#resultado {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: 'Bangers', cursive;
+}
+.pokemon {
+   margin: 10px;
+   height: 80px;
+   width: 80px;
+}
